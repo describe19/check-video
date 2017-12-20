@@ -1,5 +1,5 @@
 # check-video
-Windows .bat script that checks video file integrity using ffmpeg.
+Windows .bat script that checks video file integrity using ffmpeg (get it here: https://ffmpeg.zeranoe.com/builds/).
 
 This script will find video files in the same directory as the .bat and individually check them for errors, creating and displaying a log file for any video that contains errors.
 
